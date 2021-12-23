@@ -1,0 +1,111 @@
+.header{
+    background: #3b5998 ;
+    height: 90px;
+    width: 100%;
+
+}
+body
+{
+    margin: 0%;
+    font-family:  Halvetica Neue, Halvetica, Arial, sans-serift;
+}
+.logo{
+    width: 50%;
+    padding-top: 33px;
+    float: left;
+}
+.login{
+    width: 50%;
+    float: left;
+}
+.login-label{
+    color: #fff;
+}
+.logo-text{
+    color: #fff;
+    font-size: 45px;
+    text-decoration: none;
+    margin-left: 170px;
+    font-weight: bold;
+    font-family: Halvetica Neue, Halvetica, Arial, sans-serif;
+}
+.forgotten{
+    text-decoration: none;
+    color: #9cb;
+}
+.submit{
+    background-color:#4267b2 ;
+    color: #fff;
+    border-color: #4267b2;
+    cursor: pointer;
+
+}
+.submit:hover{
+    background: #3b5998;
+}
+.left-section{
+    width: 50%;;
+    float: left;
+    padding-top: 52px;
+    padding-left: 134px;
+
+}
+.right-section{
+    width: 39%;
+    float: left;
+}
+.main-section{
+    background: linear-gradient(white, #D3D8E8);
+    width: 100%;
+    height: 700px;
+}
+.image{
+    width: 581px;
+    padding-top: ;
+}
+.quote{
+    font-weight: bold;
+    font-size: 20px;
+}
+.elements-form{
+    height: 24px;
+    width: 200px;
+    margin-top: 20px;
+    border-radius: 4px;
+    font-size: 15px;
+    border-color: #fff;
+    border-top-color: #fff;
+}
+.elements-form2{
+    height: 24px;
+    width: 410px;
+    margin-top: 20px;
+    border-radius: 4px;
+    font-size: 15px;
+    border-color: #fff;
+    border-top-color: #fff;
+}
+
+.birthday{
+    margin-top: 40px;
+    color: rgb(128, 128, 128);
+
+}
+.gender{
+    margin-top: 20px;
+    color: rgb(128, 128, 128);
+}
+.signup{
+    background-color: green;
+    color: #fff;
+    width: 140px;
+    height: 30px;
+    border-radius: 5px;
+}
+label{
+    font-weight: bold;
+}
+.para{
+    color: rgb(128, 128, 128);
+    font-size: 10px;
+}
